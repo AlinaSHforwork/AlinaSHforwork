@@ -15,8 +15,8 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=AlinaSHforwork&theme=dracula&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlinaSHforwork&theme=dracula&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=AlinaSHforwork&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 Codewars Badge
+![Codewars Badge](https://www.codewars.com/users/alina_shvyryd/badges/large)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
